@@ -10,7 +10,7 @@ Tu peux consulter la liste de tous les pays avec leur drapeau, leur région et a
 - Affiche la liste de tous les pays du monde 🌎  
 - Recherche de pays par nom (facile à ajouter si tu veux plus tard) 🔍  
 - Détails d’un pays :
-  - Drapeau 🇩🇿  
+  - Drapeau
   - Capitale 🏙️  
   - Région et sous-région 🌐  
   - Population 👥  
